@@ -12,7 +12,9 @@ export default function Home() {
       <div className="relative bg-white"> 
         <div><img className="" src="/Lighthouse.jpg" alt="Background Image" /></div>
         <div className="absolute left-1/2 top-1/2">
-            <h3>HelloWorld</h3>
+            <h3>HelloWorld
+              Hello Again
+            </h3>
         </div>
       </div>
     </main>
